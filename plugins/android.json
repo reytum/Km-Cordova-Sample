@@ -1,0 +1,25 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "kommunicate-cordova-plugin": {
+      "PACKAGE_NAME": "io.kommunicate.cordova.KmSample"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "io.kommunicate.cordova.KmSample"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-add-swift-support": {
+      "PACKAGE_NAME": "io.kommunicate.cordova.KmSample"
+    },
+    "cordova-plugin-cocoapod-support": {
+      "PACKAGE_NAME": "io.kommunicate.cordova.KmSample"
+    }
+  }
+}
